@@ -2,7 +2,7 @@
 
 copyright:
   years: 2019
-lastupdated: "2019-07-15"
+lastupdated: "2019-08-28"
 
 keywords: DBaaS CLI, Python runtime
 

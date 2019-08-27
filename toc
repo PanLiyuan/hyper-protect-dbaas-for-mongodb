@@ -43,7 +43,7 @@ IBM Cloud Hyper Protect DBaaS for MongoDB
     {: .navgroup-end}
 
     {: .navgroup id="reference"}
-    [IBM Cloud Hyper Protect DBaaS RESTful APIs](https://test.cloud.ibm.com/apidocs/hyperp-dbaas)
+    [IBM Cloud Hyper Protect DBaaS RESTful APIs](https://{DomainName}/apidocs/hyperp-dbaas)
     dbaas_cli.md
     at_events.md
     {: .navgroup-end}

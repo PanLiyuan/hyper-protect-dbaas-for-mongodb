@@ -2,7 +2,7 @@
 
 copyright:
   years: 2019
-lastupdated: "2019-07-18"
+lastupdated: "2019-08-28"
 
 keywords: Hyper Protect DBaaS, database, data security
 
